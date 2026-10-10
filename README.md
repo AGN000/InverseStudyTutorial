@@ -12,7 +12,7 @@ and checks each formula numerically before trusting it.
 | # | Module | Status |
 |---|---|---|
 | 1 | **Why inverse problems are hard**: forward vs. inverse, noise amplification, a first stable fix by least squares | Available |
-| 2 | Least squares in depth: normal equations, conditioning, SVD, Tikhonov / L-curve regularisation | Planned |
+| 2 | Least squares in depth: normal equations, conditioning, SVD, Tikhonov / L-curve regularisation | Available |
 | 3 | Adjoint methods: gradients of PDE-constrained objectives | Planned |
 | 4 | 4D-Var: variational data assimilation | Planned |
 | 5 | Kalman filters: KF, EKF, EnKF | Planned |
