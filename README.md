@@ -15,7 +15,7 @@ animation).
 |---|---|---|---|
 | 1-3 | `01`, `02`, `03` | **Why inverse problems are hard**: forward vs. inverse, noise amplification, a first stable fix by least squares | Available |
 | 4 | [04_Least_Squares_Regularisation](04_Least_Squares_Regularisation.ipynb) | Normal equations, conditioning, SVD, Picard plot, TSVD / Tikhonov, L-curve | Available |
-| 5 | [Tutorial_05_Adjoint_Methods_PDE_Inverse_Problems_revised](Tutorial_05_Adjoint_Methods_PDE_Inverse_Problems_revised.ipynb) | Adjoint methods: gradients of PDE-constrained objectives | Available |
+| 5 | [05_Adjoint_Methods_PDE_Inverse_Problems_revised](Tutorial_05_Adjoint_Methods_PDE_Inverse_Problems_revised.ipynb) | Adjoint methods: gradients of PDE-constrained objectives | Available |
 | 6 | [06_pressure_from_PIV](06_pressure_from_PIV.ipynb) | Pressure from PIV velocity: Poisson solve, noise blow-up (synthetic + OpenPIV data) | Available |
 | 7 | [07_shape_from_wall_pressure_Euler_JAX](07_shape_from_wall_pressure_Euler_JAX.ipynb) | Wall shape from surface pressure: 2D Euler solver in JAX, automatic-differentiation gradients, L-BFGS-B | Available |
 | 8 | [08_numerical_crime_diffusion_adjoint](08_numerical_crime_diffusion_adjoint.ipynb) | Numerical diffusion of upwind vs. CFL, the inverse crime, hand-coded discrete adjoint | Planned |
