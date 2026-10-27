@@ -18,7 +18,7 @@ animation).
 | 5 | [05_Adjoint_Methods_PDE_Inverse_Problems_revised](Tutorial_05_Adjoint_Methods_PDE_Inverse_Problems_revised.ipynb) | Adjoint methods: gradients of PDE-constrained objectives | Available |
 | 6 | [06_pressure_from_PIV](06_pressure_from_PIV.ipynb) | Pressure from PIV velocity: Poisson solve, noise blow-up (synthetic + OpenPIV data) | Available |
 | 7 | [07_shape_from_wall_pressure_Euler_JAX](07_shape_from_wall_pressure_Euler_JAX.ipynb) | Wall shape from surface pressure: 2D Euler solver in JAX, automatic-differentiation gradients, L-BFGS-B | Available |
-| 8 | [08_numerical_crime_diffusion_adjoint](08_numerical_crime_diffusion_adjoint.ipynb) | Numerical diffusion of upwind vs. CFL, the inverse crime, hand-coded discrete adjoint | Planned |
+| 8 | [08_numerical_crime_diffusion_adjoint](08_numerical_crime_diffusion_adjoint.ipynb) | Numerical diffusion of upwind vs. CFL, the inverse crime, hand-coded discrete adjoint | Available |
 | 9 | [09_4DVar_cost_function_and_linear_case](09_4DVar_cost_function_and_linear_case.ipynb) | 4D-Var 1/5: cost function, Kalman gain, 4D-Var = Kalman filter in the linear case | Planned |
 | 10 | [10_4DVar_tangent_linear_and_adjoint](10_4DVar_tangent_linear_and_adjoint.ipynb) | 4D-Var 2/5: Lorenz-63, tangent-linear and adjoint models, dot-product and Taylor tests | Planned |
 | 11 | [11_4DVar_twin_experiment_and_window_length](11_4DVar_twin_experiment_and_window_length.ipynb) | 4D-Var 3/5: twin experiment, window length vs non-convexity, cycling | Planned |
